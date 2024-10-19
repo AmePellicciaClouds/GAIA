@@ -425,4 +425,3 @@ La estructura actualizada del repositorio de **GAIA** muestra un esfuerzo consid
 
 ---
 
-Si necesitas ayuda adicional para desarrollar secciones específicas, mejorar la documentación, configurar herramientas de automatización o cualquier otra asistencia, ¡no dudes en hacérmelo saber! Estoy aquí para apoyar en el crecimiento y éxito de **GAIA**.
