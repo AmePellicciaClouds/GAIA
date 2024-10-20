@@ -1,5 +1,4 @@
-
-# General Artificial Intelligence Architecture (GAIA)
+# General Artificial Intelligence Architecture - GAIA
 
 ## Índice de Contenidos
 
