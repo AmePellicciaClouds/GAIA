@@ -1231,14 +1231,6 @@ def test_calculo_ruta_optima():
 
 El modelado único del problema en **GAIA** se ve facilitado por el uso de tablas sintéticas, templates, parámetros y métricas de éxito. La implementación de pruebas unitarias garantiza la calidad y la eficacia de cada módulo, contribuyendo a un sistema integrado que optimiza las operaciones en los sectores aéreo, espacial y en tierra. Este enfoque estructurado es esencial para enfrentar los desafíos contemporáneos en estos sectores y promover un desarrollo sostenible. 
 
-### Aplicación de AMPEL (Agile Methodologies for Earth Lifeguard) y su Relación con AMPEL (Automatic Maneuvers and Personalized Execution Logs)
-
-**Introducción**
-
-El enfoque de **AMPEL** (Agile Methodologies for Earth Lifeguard) se centra en la aplicación de metodologías ágiles para la gestión y protección del medio ambiente en la Tierra. Este enfoque implica la implementación de **AMPEL** (Automatic Maneuvers and Personalized Execution Logs), que se refiere a la ejecución de maniobras automáticas y el registro personalizado de actividades. A continuación, se detalla cómo estos dos aspectos se interrelacionan y se complementan.
-
----
-
 A continuación te presento el **Data Module List (DML)** completo, basado en el enfoque y módulos que hemos discutido para **GAIA AIR**. El DML detalla los módulos de datos que se desarrollarán, cada uno con su **Código DMC**, **Título**, y **Estado**. Este DML puede ampliarse o modificarse según las necesidades futuras.
 
 ```xml
