@@ -81,8 +81,9 @@ GAIA
 ├── gaia_greentech/
 │   ├── energy_management/
 │   └── carbon_management/
+'''
 
-Guía de Instalación
+### Guía de Instalación
 
 	1.	Clonación del Repositorio:
 
