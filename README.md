@@ -1,4 +1,4 @@
-¡Claro! A continuación, encontrarás la documentación completa de GAIA en formato GitHub Markdown. Este documento está optimizado para ser utilizado directamente en repositorios de GitHub, permitiendo una navegación sencilla y una presentación clara.
+# GAIA
 
 # General Artificial Intelligence Architecture (GAIA)
 
